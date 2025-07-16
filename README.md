@@ -6,13 +6,13 @@ there are 2 cases when using this tool :
 1. You are on macOs
 2. Your are not on macOs
 
-  ## For MacOs Users :
+  ## 1 => For MacOs Users :
   
   for macOs users, you just have to download the repo, then open the **SpriteSheetSlicer** folder in xcode. Then just start the app and you're good to go.
 
   > Note that in some cases you will need to specify the python interpreter path in the **SpriteSheetSlicer/SpriteSheetSlicer/SlicerCaller.swift** file
 
-  ## For Non MacOs Users :
+  ## 2 => For Non MacOs Users :
   If you are not on macOs, you will not be able to run the interface. Then you just need to download the python tool "**slicer.py**". You can find it in **SpriteSheetSlicer/SpriteSheetSlicer/slicer.py**\
   \
   To use this tool, you have to open your terminal then run the script like this : \
