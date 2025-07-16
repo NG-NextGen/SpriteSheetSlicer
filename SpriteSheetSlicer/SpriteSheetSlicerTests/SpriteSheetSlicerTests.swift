@@ -1,9 +1,3 @@
-//
-//  SpriteSheetSlicerTests.swift
-//  SpriteSheetSlicerTests
-//
-//  Created by Noah Nhav on 08/07/2025.
-//
 
 import Testing
 @testable import SpriteSheetSlicer
