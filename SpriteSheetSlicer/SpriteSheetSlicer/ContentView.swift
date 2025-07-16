@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  SpriteSheetSlicer
-//
-//  Created by Noah Nhav on 08/07/2025.
-//
 
 import SwiftUI
 import AppKit
