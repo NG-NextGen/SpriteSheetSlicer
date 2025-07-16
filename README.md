@@ -20,5 +20,8 @@ there are 2 cases when using this tool :
 
   if you need some explanation about the arguments, run this command : `python PathToSlicer/slicer.py --help`
 # Requirements :
+Python is needed \
+\
 The main tool of this app is the slicer.py, which do the job. \
+
 To run this script you will need librairies this script is using. So You just need to run this command : `pip install PYrequirements.txt`
