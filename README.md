@@ -22,6 +22,6 @@ there are 2 cases when using this tool :
 # Requirements :
 Python is needed \
 \
-The main tool of this app is the slicer.py, which do the job. \
+The main tool of this app is the slicer.py, which do the job. 
 
 To run this script you will need librairies this script is using. So You just need to run this command : `pip install PYrequirements.txt`
